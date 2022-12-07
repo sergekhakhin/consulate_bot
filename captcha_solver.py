@@ -1,2 +1,2 @@
-def solve_captcha(image) -> str:
+def solve_captcha(img: bytes) -> str:
     return input("Solve CAPTCHA manually: ")
